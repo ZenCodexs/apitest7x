@@ -1,0 +1,2771 @@
+{
+  "añoactual": {
+    "ENE": {
+      "VIRU": [
+        {
+          "fecha": "2",
+          "precio": 1.45
+        },
+        {
+          "fecha": "4",
+          "precio": 1.45
+        },
+        {
+          "fecha": "6",
+          "precio": 1.45
+        },
+        {
+          "fecha": "9",
+          "precio": 1.45
+        },
+        {
+          "fecha": "11",
+          "precio": 1.45
+        },
+        {
+          "fecha": "13",
+          "precio": 1.45
+        },
+        {
+          "fecha": "16",
+          "precio": 1.45
+        },
+        {
+          "fecha": "18",
+          "precio": 1.45
+        },
+        {
+          "fecha": "20",
+          "precio": 1.45
+        },
+        {
+          "fecha": "23",
+          "precio": 1.45
+        },
+        {
+          "fecha": "25",
+          "precio": 1.45
+        },
+        {
+          "fecha": "27",
+          "precio": 1.45
+        },
+        {
+          "fecha": "30",
+          "precio": 1.45
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": "2",
+          "precio": 1.5
+        },
+        {
+          "fecha": "4",
+          "precio": 1.5
+        },
+        {
+          "fecha": "6",
+          "precio": 1.5
+        },
+        {
+          "fecha": "9",
+          "precio": 1.5
+        },
+        {
+          "fecha": "11",
+          "precio": 1.5
+        },
+        {
+          "fecha": "13",
+          "precio": 1.5
+        },
+        {
+          "fecha": "16",
+          "precio": 1.5
+        },
+        {
+          "fecha": "18",
+          "precio": 1.55
+        },
+        {
+          "fecha": "20",
+          "precio": 1.5
+        },
+        {
+          "fecha": "23",
+          "precio": 1.45
+        },
+        {
+          "fecha": "25",
+          "precio": 1.5
+        },
+        {
+          "fecha": "27",
+          "precio": 1.5
+        },
+        {
+          "fecha": "30",
+          "precio": 1.5
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": "2",
+          "precio": 1.5
+        },
+        {
+          "fecha": "4",
+          "precio": 1.5
+        },
+        {
+          "fecha": "6",
+          "precio": 1.5
+        },
+        {
+          "fecha": "9",
+          "precio": 1.5
+        },
+        {
+          "fecha": "11",
+          "precio": 1.5
+        },
+        {
+          "fecha": "13",
+          "precio": 1.5
+        },
+        {
+          "fecha": "16",
+          "precio": 1.5
+        },
+        {
+          "fecha": "18",
+          "precio": 1.55
+        },
+        {
+          "fecha": "20",
+          "precio": 1.5
+        },
+        {
+          "fecha": "23",
+          "precio": 1.45
+        },
+        {
+          "fecha": "25",
+          "precio": 1.5
+        },
+        {
+          "fecha": "27",
+          "precio": 1.5
+        },
+        {
+          "fecha": "30",
+          "precio": 1.5
+        }
+      ]
+    },
+    "FEB": {
+      "VIRU": [
+        {
+          "fecha": 1,
+          "precio": 1.35
+        },
+        {
+          "fecha": 3,
+          "precio": 1.35
+        },
+        {
+          "fecha": 6,
+          "precio": 1.35
+        },
+        {
+          "fecha": 8,
+          "precio": 1.4
+        },
+        {
+          "fecha": 10,
+          "precio": 1.35
+        },
+        {
+          "fecha": 13,
+          "precio": 1.35
+        },
+        {
+          "fecha": 15,
+          "precio": 1.3
+        },
+        {
+          "fecha": 17,
+          "precio": 1.25
+        },
+        {
+          "fecha": 20,
+          "precio": 1.25
+        },
+        {
+          "fecha": 22,
+          "precio": 1.25
+        },
+        {
+          "fecha": 24,
+          "precio": 1.25
+        },
+        {
+          "fecha": 27,
+          "precio": 1.25
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 1,
+          "precio": 1.8
+        },
+        {
+          "fecha": 3,
+          "precio": 1.7
+        },
+        {
+          "fecha": 6,
+          "precio": 1.7
+        },
+        {
+          "fecha": 8,
+          "precio": 1.4
+        },
+        {
+          "fecha": 10,
+          "precio": 1.4
+        },
+        {
+          "fecha": 13,
+          "precio": 1.7
+        },
+        {
+          "fecha": 15,
+          "precio": 1.3
+        },
+        {
+          "fecha": 17,
+          "precio": 1.3
+        },
+        {
+          "fecha": 20,
+          "precio": 1.3
+        },
+        {
+          "fecha": 22,
+          "precio": 1.3
+        },
+        {
+          "fecha": 24,
+          "precio": 1.3
+        },
+        {
+          "fecha": 27,
+          "precio": 1.3
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 1,
+          "precio": 1.8
+        },
+        {
+          "fecha": 3,
+          "precio": 1.7
+        },
+        {
+          "fecha": 6,
+          "precio": 1.7
+        },
+        {
+          "fecha": 8,
+          "precio": 1.4
+        },
+        {
+          "fecha": 10,
+          "precio": 1.4
+        },
+        {
+          "fecha": 13,
+          "precio": 1.7
+        },
+        {
+          "fecha": 15,
+          "precio": 1.3
+        },
+        {
+          "fecha": 17,
+          "precio": 1.3
+        },
+        {
+          "fecha": 20,
+          "precio": 1.3
+        },
+        {
+          "fecha": 22,
+          "precio": 1.3
+        },
+        {
+          "fecha": 24,
+          "precio": 1.3
+        },
+        {
+          "fecha": 27,
+          "precio": 1.3
+        }
+      ]
+    },
+    "MAR": {
+      "VIRU": [
+        {
+          "fecha": 1,
+          "precio": 1.25
+        },
+        {
+          "fecha": 3,
+          "precio": 1.25
+        },
+        {
+          "fecha": 6,
+          "precio": 1.25
+        },
+        {
+          "fecha": 8,
+          "precio": 1.25
+        },
+        {
+          "fecha": 10,
+          "precio": 1.25
+        },
+        {
+          "fecha": 13,
+          "precio": 1.1
+        },
+        {
+          "fecha": 15,
+          "precio": 1.1
+        },
+        {
+          "fecha": 17,
+          "precio": 1.2
+        },
+        {
+          "fecha": 20,
+          "precio": 1.25
+        },
+        {
+          "fecha": 22,
+          "precio": 1.25
+        },
+        {
+          "fecha": 24,
+          "precio": 1.5
+        },
+        {
+          "fecha": 27,
+          "precio": 1.3
+        },
+        {
+          "fecha": 29,
+          "precio": 1.3
+        },
+        {
+          "fecha": 31,
+          "precio": 1.3
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 1,
+          "precio": 1.3
+        },
+        {
+          "fecha": 3,
+          "precio": 1.3
+        },
+        {
+          "fecha": 6,
+          "precio": 1.3
+        },
+        {
+          "fecha": 8,
+          "precio": 1.3
+        },
+        {
+          "fecha": 10,
+          "precio": 1.3
+        },
+        {
+          "fecha": 13,
+          "precio": 1.25
+        },
+        {
+          "fecha": 15,
+          "precio": 1.25
+        },
+        {
+          "fecha": 17,
+          "precio": 1.25
+        },
+        {
+          "fecha": 20,
+          "precio": 1.3
+        },
+        {
+          "fecha": 22,
+          "precio": 1.3
+        },
+        {
+          "fecha": 24,
+          "precio": 1.4
+        },
+        {
+          "fecha": 27,
+          "precio": 1.35
+        },
+        {
+          "fecha": 29,
+          "precio": 1.4
+        },
+        {
+          "fecha": 31,
+          "precio": 1.4
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 1,
+          "precio": 1.3
+        },
+        {
+          "fecha": 3,
+          "precio": 1.3
+        },
+        {
+          "fecha": 6,
+          "precio": 1.3
+        },
+        {
+          "fecha": 8,
+          "precio": 1.3
+        },
+        {
+          "fecha": 10,
+          "precio": 1.3
+        },
+        {
+          "fecha": 13,
+          "precio": 1.25
+        },
+        {
+          "fecha": 15,
+          "precio": 1.25
+        },
+        {
+          "fecha": 17,
+          "precio": 1.25
+        },
+        {
+          "fecha": 20,
+          "precio": 1.3
+        },
+        {
+          "fecha": 22,
+          "precio": 1.3
+        },
+        {
+          "fecha": 24,
+          "precio": 1.4
+        },
+        {
+          "fecha": 27,
+          "precio": 1.35
+        },
+        {
+          "fecha": 29,
+          "precio": 1.4
+        },
+        {
+          "fecha": 31,
+          "precio": 1.4
+        }
+      ]
+    },
+    "ABR": {
+      "VIRU": [
+        {
+          "fecha": 3,
+          "precio": 1.3
+        },
+        {
+          "fecha": 5,
+          "precio": 1.2
+        },
+        {
+          "fecha": 7,
+          "precio": 1.3
+        },
+        {
+          "fecha": 10,
+          "precio": 1.3
+        },
+        {
+          "fecha": 12,
+          "precio": 1.23
+        },
+        {
+          "fecha": 14,
+          "precio": 1.25
+        },
+        {
+          "fecha": 17,
+          "precio": 1.3
+        },
+        {
+          "fecha": 19,
+          "precio": 1.3
+        },
+        {
+          "fecha": 21,
+          "precio": 1.3
+        },
+        {
+          "fecha": 24,
+          "precio": 1.25
+        },
+        {
+          "fecha": 26,
+          "precio": 1.2
+        },
+        {
+          "fecha": 28,
+          "precio": 1.2
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 3,
+          "precio": 1.4
+        },
+        {
+          "fecha": 5,
+          "precio": 1.4
+        },
+        {
+          "fecha": 7,
+          "precio": 1.35
+        },
+        {
+          "fecha": 10,
+          "precio": 1.35
+        },
+        {
+          "fecha": 12,
+          "precio": 1.4
+        },
+        {
+          "fecha": 14,
+          "precio": 1.4
+        },
+        {
+          "fecha": 17,
+          "precio": 1.4
+        },
+        {
+          "fecha": 19,
+          "precio": 1.4
+        },
+        {
+          "fecha": 21,
+          "precio": 1.4
+        },
+        {
+          "fecha": 24,
+          "precio": 1.4
+        },
+        {
+          "fecha": 26,
+          "precio": 1.4
+        },
+        {
+          "fecha": 28,
+          "precio": 1.4
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 3,
+          "precio": 1.4
+        },
+        {
+          "fecha": 5,
+          "precio": 1.4
+        },
+        {
+          "fecha": 7,
+          "precio": 1.35
+        },
+        {
+          "fecha": 10,
+          "precio": 1.35
+        },
+        {
+          "fecha": 12,
+          "precio": 1.4
+        },
+        {
+          "fecha": 14,
+          "precio": 1.4
+        },
+        {
+          "fecha": 17,
+          "precio": 1.4
+        },
+        {
+          "fecha": 19,
+          "precio": 1.4
+        },
+        {
+          "fecha": 21,
+          "precio": 1.4
+        },
+        {
+          "fecha": 24,
+          "precio": 1.4
+        },
+        {
+          "fecha": 26,
+          "precio": 1.4
+        },
+        {
+          "fecha": 28,
+          "precio": 1.4
+        }
+      ]
+    },
+    "MAY": {
+      "VIRU": [
+        {
+          "fecha": 3,
+          "precio": 1.2
+        },
+        {
+          "fecha": 5,
+          "precio": 1.25
+        },
+        {
+          "fecha": 8,
+          "precio": 1.25
+        },
+        {
+          "fecha": 10,
+          "precio": 1.35
+        },
+        {
+          "fecha": 12,
+          "precio": 1.35
+        },
+        {
+          "fecha": 15,
+          "precio": 1.35
+        },
+        {
+          "fecha": 17,
+          "precio": 1.35
+        },
+        {
+          "fecha": 19,
+          "precio": 1.35
+        },
+        {
+          "fecha": 21,
+          "precio": 1.3
+        },
+        {
+          "fecha": 23,
+          "precio": 1.3
+        },
+        {
+          "fecha": 25,
+          "precio": 1.2
+        },
+        {
+          "fecha": 27,
+          "precio": 1.2
+        },
+        {
+          "fecha": 29,
+          "precio": 1.2
+        },
+        {
+          "fecha": 31,
+          "precio": 1.2
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 3,
+          "precio": 1.4
+        },
+        {
+          "fecha": 5,
+          "precio": 1.4
+        },
+        {
+          "fecha": 8,
+          "precio": 1.35
+        },
+        {
+          "fecha": 10,
+          "precio": 1.35
+        },
+        {
+          "fecha": 12,
+          "precio": 1.35
+        },
+        {
+          "fecha": 15,
+          "precio": 1.35
+        },
+        {
+          "fecha": 17,
+          "precio": 1.4
+        },
+        {
+          "fecha": 19,
+          "precio": 1.4
+        },
+        {
+          "fecha": 21,
+          "precio": 1.35
+        },
+        {
+          "fecha": 23,
+          "precio": 1.35
+        },
+        {
+          "fecha": 25,
+          "precio": 1.3
+        },
+        {
+          "fecha": 27,
+          "precio": 1.25
+        },
+        {
+          "fecha": 29,
+          "precio": 1.25
+        },
+        {
+          "fecha": 31,
+          "precio": 1.25
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 3,
+          "precio": 1.4
+        },
+        {
+          "fecha": 5,
+          "precio": 1.4
+        },
+        {
+          "fecha": 8,
+          "precio": 1.35
+        },
+        {
+          "fecha": 10,
+          "precio": 1.35
+        },
+        {
+          "fecha": 12,
+          "precio": 1.35
+        },
+        {
+          "fecha": 15,
+          "precio": 1.35
+        },
+        {
+          "fecha": 17,
+          "precio": 1.4
+        },
+        {
+          "fecha": 19,
+          "precio": 1.4
+        },
+        {
+          "fecha": 21,
+          "precio": 1.35
+        },
+        {
+          "fecha": 23,
+          "precio": 1.35
+        },
+        {
+          "fecha": 25,
+          "precio": 1.3
+        },
+        {
+          "fecha": 27,
+          "precio": 1.25
+        },
+        {
+          "fecha": 29,
+          "precio": 1.25
+        },
+        {
+          "fecha": 31,
+          "precio": 1.25
+        }
+      ]
+    },
+    "JUN": {
+      "VIRU": [],
+      "CHICAMA": [],
+      "MOCHE": []
+    }
+  },
+  "añoanterior": {
+    "ENE": {
+      "VIRU": [
+        {
+          "fecha": "3",
+          "precio": 1.4
+        },
+        {
+          "fecha": "5",
+          "precio": 1.45
+        },
+        {
+          "fecha": "7",
+          "precio": 1.45
+        },
+        {
+          "fecha": "10",
+          "precio": 1.45
+        },
+        {
+          "fecha": "12",
+          "precio": 1.45
+        },
+        {
+          "fecha": "14",
+          "precio": 1.5
+        },
+        {
+          "fecha": "16",
+          "precio": 1.5
+        },
+        {
+          "fecha": "19",
+          "precio": 1.5
+        },
+        {
+          "fecha": "21",
+          "precio": 1.5
+        },
+        {
+          "fecha": "24",
+          "precio": 1.47
+        },
+        {
+          "fecha": "26",
+          "precio": 1.5
+        },
+        {
+          "fecha": "28",
+          "precio": 1.5
+        },
+        {
+          "fecha": "31",
+          "precio": 1.5
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": "3",
+          "precio": 1.43
+        },
+        {
+          "fecha": "5",
+          "precio": 1.45
+        },
+        {
+          "fecha": "7",
+          "precio": 1.48
+        },
+        {
+          "fecha": "10",
+          "precio": 1.48
+        },
+        {
+          "fecha": "12",
+          "precio": 1.48
+        },
+        {
+          "fecha": "14",
+          "precio": 1.45
+        },
+        {
+          "fecha": "16",
+          "precio": 1.53
+        },
+        {
+          "fecha": "19",
+          "precio": 1.53
+        },
+        {
+          "fecha": "21",
+          "precio": 1.54
+        },
+        {
+          "fecha": "24",
+          "precio": 1.45
+        },
+        {
+          "fecha": "26",
+          "precio": 1.45
+        },
+        {
+          "fecha": "28",
+          "precio": 1.45
+        },
+        {
+          "fecha": "31",
+          "precio": 1.45
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": "3",
+          "precio": 1.5
+        },
+        {
+          "fecha": "5",
+          "precio": 1.5
+        },
+        {
+          "fecha": "7",
+          "precio": 1.5
+        },
+        {
+          "fecha": "10",
+          "precio": 1.5
+        },
+        {
+          "fecha": "12",
+          "precio": 1.5
+        },
+        {
+          "fecha": "14",
+          "precio": 1.5
+        },
+        {
+          "fecha": "16",
+          "precio": 1.5
+        },
+        {
+          "fecha": "19",
+          "precio": 1.5
+        },
+        {
+          "fecha": "21",
+          "precio": 1.5
+        },
+        {
+          "fecha": "24",
+          "precio": 1.5
+        },
+        {
+          "fecha": "26",
+          "precio": 1.5
+        },
+        {
+          "fecha": "28",
+          "precio": 1.5
+        },
+        {
+          "fecha": "31",
+          "precio": 1.6
+        }
+      ]
+    },
+    "FEB": {
+      "VIRU": [
+        {
+          "fecha": 2,
+          "precio": 1.5
+        },
+        {
+          "fecha": 4,
+          "precio": 1.5
+        },
+        {
+          "fecha": 7,
+          "precio": 1.5
+        },
+        {
+          "fecha": 9,
+          "precio": 1.47
+        },
+        {
+          "fecha": 11,
+          "precio": 1.45
+        },
+        {
+          "fecha": 14,
+          "precio": 1.47
+        },
+        {
+          "fecha": 16,
+          "precio": 1.47
+        },
+        {
+          "fecha": 18,
+          "precio": 1.47
+        },
+        {
+          "fecha": 21,
+          "precio": 135
+        },
+        {
+          "fecha": 23,
+          "precio": 1.35
+        },
+        {
+          "fecha": 25,
+          "precio": 1.35
+        },
+        {
+          "fecha": 28,
+          "precio": 1.35
+        },
+        {
+          "fecha": 31,
+          "precio": 12.573333333333332
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 2,
+          "precio": 1.45
+        },
+        {
+          "fecha": 4,
+          "precio": 1.48
+        },
+        {
+          "fecha": 7,
+          "precio": 1.37
+        },
+        {
+          "fecha": 9,
+          "precio": 1.37
+        },
+        {
+          "fecha": 11,
+          "precio": 1.37
+        },
+        {
+          "fecha": 14,
+          "precio": 1.47
+        },
+        {
+          "fecha": 16,
+          "precio": 1.3
+        },
+        {
+          "fecha": 18,
+          "precio": 1.3
+        },
+        {
+          "fecha": 21,
+          "precio": 130
+        },
+        {
+          "fecha": 23,
+          "precio": 1.25
+        },
+        {
+          "fecha": 25,
+          "precio": 1.25
+        },
+        {
+          "fecha": 28,
+          "precio": 1.25
+        },
+        {
+          "fecha": 31,
+          "precio": 12.071666666666667
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 2,
+          "precio": 1.55
+        },
+        {
+          "fecha": 4,
+          "precio": 1.5
+        },
+        {
+          "fecha": 7,
+          "precio": 1.5
+        },
+        {
+          "fecha": 9,
+          "precio": 1.5
+        },
+        {
+          "fecha": 11,
+          "precio": 1.5
+        },
+        {
+          "fecha": 14,
+          "precio": 1.48
+        },
+        {
+          "fecha": 16,
+          "precio": 1.48
+        },
+        {
+          "fecha": 18,
+          "precio": 1.48
+        },
+        {
+          "fecha": 21,
+          "precio": 1.4
+        },
+        {
+          "fecha": 23,
+          "precio": 1.4
+        },
+        {
+          "fecha": 25,
+          "precio": 1.45
+        },
+        {
+          "fecha": 28,
+          "precio": 1.45
+        }
+      ]
+    },
+    "MAR": {
+      "VIRU": [
+        {
+          "fecha": 2,
+          "precio": 1.35
+        },
+        {
+          "fecha": 4,
+          "precio": 1.35
+        },
+        {
+          "fecha": 7,
+          "precio": 1.35
+        },
+        {
+          "fecha": 9,
+          "precio": 1.35
+        },
+        {
+          "fecha": 11,
+          "precio": 1.35
+        },
+        {
+          "fecha": 14,
+          "precio": 1.35
+        },
+        {
+          "fecha": 16,
+          "precio": 1.35
+        },
+        {
+          "fecha": 18,
+          "precio": 1.35
+        },
+        {
+          "fecha": 21,
+          "precio": 1.35
+        },
+        {
+          "fecha": 23,
+          "precio": 1.35
+        },
+        {
+          "fecha": 25,
+          "precio": 1.4
+        },
+        {
+          "fecha": 28,
+          "precio": 1.45
+        },
+        {
+          "fecha": 30,
+          "precio": 1.45
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 2,
+          "precio": 1.25
+        },
+        {
+          "fecha": 4,
+          "precio": 1.25
+        },
+        {
+          "fecha": 7,
+          "precio": 1.25
+        },
+        {
+          "fecha": 9,
+          "precio": 1.23
+        },
+        {
+          "fecha": 11,
+          "precio": 1.2
+        },
+        {
+          "fecha": 14,
+          "precio": 1.3
+        },
+        {
+          "fecha": 16,
+          "precio": 1.3
+        },
+        {
+          "fecha": 18,
+          "precio": 1.3
+        },
+        {
+          "fecha": 21,
+          "precio": 1.3
+        },
+        {
+          "fecha": 23,
+          "precio": 1.3
+        },
+        {
+          "fecha": 25,
+          "precio": 1.45
+        },
+        {
+          "fecha": 28,
+          "precio": 1.45
+        },
+        {
+          "fecha": 30,
+          "precio": 1.45
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 2,
+          "precio": 1.4
+        },
+        {
+          "fecha": 4,
+          "precio": 1.4
+        },
+        {
+          "fecha": 7,
+          "precio": 1.4
+        },
+        {
+          "fecha": 9,
+          "precio": 1.35
+        },
+        {
+          "fecha": 11,
+          "precio": 1.4
+        },
+        {
+          "fecha": 14,
+          "precio": 1.4
+        },
+        {
+          "fecha": 16,
+          "precio": 1.4
+        },
+        {
+          "fecha": 18,
+          "precio": 1.4
+        },
+        {
+          "fecha": 21,
+          "precio": 1.4
+        },
+        {
+          "fecha": 23,
+          "precio": 1.4
+        },
+        {
+          "fecha": 25,
+          "precio": 1.5
+        },
+        {
+          "fecha": 28,
+          "precio": 1.5
+        },
+        {
+          "fecha": 30,
+          "precio": 1.5
+        }
+      ]
+    },
+    "ABR": {
+      "VIRU": [
+        {
+          "fecha": 1,
+          "precio": 1.45
+        },
+        {
+          "fecha": 4,
+          "precio": 1.45
+        },
+        {
+          "fecha": 6,
+          "precio": 1.45
+        },
+        {
+          "fecha": 8,
+          "precio": 1.45
+        },
+        {
+          "fecha": 11,
+          "precio": 1.45
+        },
+        {
+          "fecha": 13,
+          "precio": 1.45
+        },
+        {
+          "fecha": 18,
+          "precio": 1.45
+        },
+        {
+          "fecha": 20,
+          "precio": 1.45
+        },
+        {
+          "fecha": 22,
+          "precio": 1.5
+        },
+        {
+          "fecha": 25,
+          "precio": 1.5
+        },
+        {
+          "fecha": 27,
+          "precio": 1.5
+        },
+        {
+          "fecha": 29,
+          "precio": 1.45
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 1,
+          "precio": 1.48
+        },
+        {
+          "fecha": 4,
+          "precio": 1.48
+        },
+        {
+          "fecha": 6,
+          "precio": 1.55
+        },
+        {
+          "fecha": 8,
+          "precio": 1.55
+        },
+        {
+          "fecha": 11,
+          "precio": 1.55
+        },
+        {
+          "fecha": 13,
+          "precio": 1.55
+        },
+        {
+          "fecha": 18,
+          "precio": 1.5
+        },
+        {
+          "fecha": 20,
+          "precio": 1.4
+        },
+        {
+          "fecha": 22,
+          "precio": 1.4
+        },
+        {
+          "fecha": 25,
+          "precio": 1.4
+        },
+        {
+          "fecha": 27,
+          "precio": 1.4
+        },
+        {
+          "fecha": 29,
+          "precio": 1.42
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 1,
+          "precio": 1.5
+        },
+        {
+          "fecha": 4,
+          "precio": 1.5
+        },
+        {
+          "fecha": 6,
+          "precio": 1.6
+        },
+        {
+          "fecha": 8,
+          "precio": 1.6
+        },
+        {
+          "fecha": 11,
+          "precio": 1.6
+        },
+        {
+          "fecha": 13,
+          "precio": 1.6
+        },
+        {
+          "fecha": 18,
+          "precio": 1.5
+        },
+        {
+          "fecha": 20,
+          "precio": 1.5
+        },
+        {
+          "fecha": 22,
+          "precio": 1.5
+        },
+        {
+          "fecha": 25,
+          "precio": 1.5
+        },
+        {
+          "fecha": 27,
+          "precio": 1.5
+        },
+        {
+          "fecha": 29,
+          "precio": 1.5
+        }
+      ]
+    },
+    "MAY": {
+      "VIRU": [
+        {
+          "fecha": 2,
+          "precio": 1.35
+        },
+        {
+          "fecha": 4,
+          "precio": 1.35
+        },
+        {
+          "fecha": 6,
+          "precio": 1.35
+        },
+        {
+          "fecha": 9,
+          "precio": 1.35
+        },
+        {
+          "fecha": 11,
+          "precio": 1.4
+        },
+        {
+          "fecha": 13,
+          "precio": 1.4
+        },
+        {
+          "fecha": 16,
+          "precio": 1.4
+        },
+        {
+          "fecha": 18,
+          "precio": 1.4
+        },
+        {
+          "fecha": 20,
+          "precio": 1.4
+        },
+        {
+          "fecha": 23,
+          "precio": 1.4
+        },
+        {
+          "fecha": 25,
+          "precio": 1.4
+        },
+        {
+          "fecha": 27,
+          "precio": 1.45
+        },
+        {
+          "fecha": 30,
+          "precio": 1.45
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 2,
+          "precio": 1.3
+        },
+        {
+          "fecha": 4,
+          "precio": 1.3
+        },
+        {
+          "fecha": 6,
+          "precio": 1.3
+        },
+        {
+          "fecha": 9,
+          "precio": 1.3
+        },
+        {
+          "fecha": 11,
+          "precio": 1.35
+        },
+        {
+          "fecha": 13,
+          "precio": 1.4
+        },
+        {
+          "fecha": 16,
+          "precio": 1.4
+        },
+        {
+          "fecha": 18,
+          "precio": 1.4
+        },
+        {
+          "fecha": 20,
+          "precio": 1.4
+        },
+        {
+          "fecha": 23,
+          "precio": 1.4
+        },
+        {
+          "fecha": 25,
+          "precio": 1.4
+        },
+        {
+          "fecha": 27,
+          "precio": 1.4
+        },
+        {
+          "fecha": 30,
+          "precio": 1.4
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 2,
+          "precio": 1.4
+        },
+        {
+          "fecha": 4,
+          "precio": 1.4
+        },
+        {
+          "fecha": 6,
+          "precio": 1.4
+        },
+        {
+          "fecha": 9,
+          "precio": 1.4
+        },
+        {
+          "fecha": 11,
+          "precio": 1.5
+        },
+        {
+          "fecha": 13,
+          "precio": 1.5
+        },
+        {
+          "fecha": 16,
+          "precio": 1.65
+        },
+        {
+          "fecha": 18,
+          "precio": 1.65
+        },
+        {
+          "fecha": 20,
+          "precio": 1.65
+        },
+        {
+          "fecha": 23,
+          "precio": 1.65
+        },
+        {
+          "fecha": 25,
+          "precio": 1.5
+        },
+        {
+          "fecha": 27,
+          "precio": 1.5
+        },
+        {
+          "fecha": 30,
+          "precio": 1.5
+        }
+      ]
+    },
+    "JUN": {
+      "VIRU": [
+        {
+          "fecha": 1,
+          "precio": 1.45
+        },
+        {
+          "fecha": 3,
+          "precio": 1.45
+        },
+        {
+          "fecha": 6,
+          "precio": 1.45
+        },
+        {
+          "fecha": 8,
+          "precio": 1.45
+        },
+        {
+          "fecha": 10,
+          "precio": 1.45
+        },
+        {
+          "fecha": 13,
+          "precio": 1.45
+        },
+        {
+          "fecha": 15,
+          "precio": 1.5
+        },
+        {
+          "fecha": 17,
+          "precio": 1.5
+        },
+        {
+          "fecha": 20,
+          "precio": 1.6
+        },
+        {
+          "fecha": 22,
+          "precio": 1.6
+        },
+        {
+          "fecha": 24,
+          "precio": 1.6
+        },
+        {
+          "fecha": 27,
+          "precio": 1.6
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 1,
+          "precio": 1.4
+        },
+        {
+          "fecha": 3,
+          "precio": 1.4
+        },
+        {
+          "fecha": 6,
+          "precio": 1.4
+        },
+        {
+          "fecha": 8,
+          "precio": 1.45
+        },
+        {
+          "fecha": 10,
+          "precio": 1.58
+        },
+        {
+          "fecha": 13,
+          "precio": 1.6
+        },
+        {
+          "fecha": 15,
+          "precio": 1.6
+        },
+        {
+          "fecha": 17,
+          "precio": 1.58
+        },
+        {
+          "fecha": 20,
+          "precio": 1.6
+        },
+        {
+          "fecha": 22,
+          "precio": 1.6
+        },
+        {
+          "fecha": 24,
+          "precio": 1.6
+        },
+        {
+          "fecha": 27,
+          "precio": 1.62
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 1,
+          "precio": 1.5
+        },
+        {
+          "fecha": 3,
+          "precio": 1.5
+        },
+        {
+          "fecha": 6,
+          "precio": 1.5
+        },
+        {
+          "fecha": 8,
+          "precio": 1.5
+        },
+        {
+          "fecha": 10,
+          "precio": 1.6
+        },
+        {
+          "fecha": 13,
+          "precio": 1.65
+        },
+        {
+          "fecha": 15,
+          "precio": 1.65
+        },
+        {
+          "fecha": 17,
+          "precio": 1.65
+        },
+        {
+          "fecha": 20,
+          "precio": 1.65
+        },
+        {
+          "fecha": 22,
+          "precio": 1.63
+        },
+        {
+          "fecha": 24,
+          "precio": 1.63
+        },
+        {
+          "fecha": 27,
+          "precio": 1.65
+        }
+      ]
+    },
+    "JUL": {
+      "VIRU": [
+        {
+          "fecha": 1,
+          "precio": 1.65
+        },
+        {
+          "fecha": 4,
+          "precio": 1.65
+        },
+        {
+          "fecha": 6,
+          "precio": 1.7
+        },
+        {
+          "fecha": 8,
+          "precio": 1.7
+        },
+        {
+          "fecha": 11,
+          "precio": 1.7
+        },
+        {
+          "fecha": 13,
+          "precio": 1.78
+        },
+        {
+          "fecha": 15,
+          "precio": 1.75
+        },
+        {
+          "fecha": 18,
+          "precio": 1.7
+        },
+        {
+          "fecha": 20,
+          "precio": 1.7
+        },
+        {
+          "fecha": 22,
+          "precio": 1.7
+        },
+        {
+          "fecha": 25,
+          "precio": 1.7
+        },
+        {
+          "fecha": 27,
+          "precio": 1.7
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 1,
+          "precio": 1.65
+        },
+        {
+          "fecha": 4,
+          "precio": 1.65
+        },
+        {
+          "fecha": 6,
+          "precio": 1.7
+        },
+        {
+          "fecha": 8,
+          "precio": 1.7
+        },
+        {
+          "fecha": 11,
+          "precio": 1.7
+        },
+        {
+          "fecha": 13,
+          "precio": 1.75
+        },
+        {
+          "fecha": 15,
+          "precio": 1.7
+        },
+        {
+          "fecha": 18,
+          "precio": 1.7
+        },
+        {
+          "fecha": 20,
+          "precio": 1.7
+        },
+        {
+          "fecha": 22,
+          "precio": 1.65
+        },
+        {
+          "fecha": 25,
+          "precio": 1.65
+        },
+        {
+          "fecha": 27,
+          "precio": 1.68
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 1,
+          "precio": 1.7
+        },
+        {
+          "fecha": 4,
+          "precio": 1.7
+        },
+        {
+          "fecha": 6,
+          "precio": 1.7
+        },
+        {
+          "fecha": 8,
+          "precio": 1.7
+        },
+        {
+          "fecha": 11,
+          "precio": 1.7
+        },
+        {
+          "fecha": 13,
+          "precio": 1.8
+        },
+        {
+          "fecha": 15,
+          "precio": 1.8
+        },
+        {
+          "fecha": 18,
+          "precio": 1.75
+        },
+        {
+          "fecha": 20,
+          "precio": 1.75
+        },
+        {
+          "fecha": 22,
+          "precio": 1.75
+        },
+        {
+          "fecha": 25,
+          "precio": 1.75
+        },
+        {
+          "fecha": 27,
+          "precio": 1.72
+        }
+      ]
+    },
+    "AGO": {
+      "VIRU": [
+        {
+          "fecha": 1,
+          "precio": 1.7
+        },
+        {
+          "fecha": 3,
+          "precio": 1.7
+        },
+        {
+          "fecha": 5,
+          "precio": 1.7
+        },
+        {
+          "fecha": 8,
+          "precio": 1.65
+        },
+        {
+          "fecha": 10,
+          "precio": 1.65
+        },
+        {
+          "fecha": 12,
+          "precio": 1.65
+        },
+        {
+          "fecha": 15,
+          "precio": 1.6
+        },
+        {
+          "fecha": 17,
+          "precio": 1.6
+        },
+        {
+          "fecha": 19,
+          "precio": 1.6
+        },
+        {
+          "fecha": 22,
+          "precio": 1.6
+        },
+        {
+          "fecha": 24,
+          "precio": 1.6
+        },
+        {
+          "fecha": 26,
+          "precio": 1.6
+        },
+        {
+          "fecha": 29,
+          "precio": 1.6
+        },
+        {
+          "fecha": 31,
+          "precio": 1.6
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 1,
+          "precio": 1.7
+        },
+        {
+          "fecha": 3,
+          "precio": 1.65
+        },
+        {
+          "fecha": 5,
+          "precio": 1.5
+        },
+        {
+          "fecha": 8,
+          "precio": 1.6
+        },
+        {
+          "fecha": 10,
+          "precio": 1.5
+        },
+        {
+          "fecha": 12,
+          "precio": 1.55
+        },
+        {
+          "fecha": 15,
+          "precio": 1.5
+        },
+        {
+          "fecha": 17,
+          "precio": 1.48
+        },
+        {
+          "fecha": 19,
+          "precio": 1.45
+        },
+        {
+          "fecha": 22,
+          "precio": 1.45
+        },
+        {
+          "fecha": 24,
+          "precio": 1.46
+        },
+        {
+          "fecha": 26,
+          "precio": 1.46
+        },
+        {
+          "fecha": 29,
+          "precio": 1.46
+        },
+        {
+          "fecha": 31,
+          "precio": 1.46
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 1,
+          "precio": 1.72
+        },
+        {
+          "fecha": 3,
+          "precio": 1.72
+        },
+        {
+          "fecha": 5,
+          "precio": 1.7
+        },
+        {
+          "fecha": 8,
+          "precio": 1.67
+        },
+        {
+          "fecha": 10,
+          "precio": 1.67
+        },
+        {
+          "fecha": 12,
+          "precio": 1.67
+        },
+        {
+          "fecha": 15,
+          "precio": 1.65
+        },
+        {
+          "fecha": 17,
+          "precio": 1.65
+        },
+        {
+          "fecha": 19,
+          "precio": 1.65
+        },
+        {
+          "fecha": 22,
+          "precio": 1.65
+        },
+        {
+          "fecha": 24,
+          "precio": 1.65
+        },
+        {
+          "fecha": 26,
+          "precio": 1.65
+        },
+        {
+          "fecha": 29,
+          "precio": 1.65
+        },
+        {
+          "fecha": 31,
+          "precio": 1.65
+        }
+      ]
+    },
+    "SET": {
+      "VIRU": [
+        {
+          "fecha": 2,
+          "precio": 1.6
+        },
+        {
+          "fecha": 5,
+          "precio": 1.6
+        },
+        {
+          "fecha": 7,
+          "precio": 1.6
+        },
+        {
+          "fecha": 9,
+          "precio": 1.6
+        },
+        {
+          "fecha": 12,
+          "precio": 1.6
+        },
+        {
+          "fecha": 14,
+          "precio": 1.6
+        },
+        {
+          "fecha": 16,
+          "precio": 1.5
+        },
+        {
+          "fecha": 19,
+          "precio": 1.5
+        },
+        {
+          "fecha": 21,
+          "precio": 1.5
+        },
+        {
+          "fecha": 23,
+          "precio": 1.5
+        },
+        {
+          "fecha": 26,
+          "precio": 1.5
+        },
+        {
+          "fecha": 28,
+          "precio": 1.5
+        },
+        {
+          "fecha": 30,
+          "precio": 1.5
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 2,
+          "precio": 1.46
+        },
+        {
+          "fecha": 5,
+          "precio": 1.46
+        },
+        {
+          "fecha": 7,
+          "precio": 1.47
+        },
+        {
+          "fecha": 9,
+          "precio": 1.47
+        },
+        {
+          "fecha": 12,
+          "precio": 1.47
+        },
+        {
+          "fecha": 14,
+          "precio": 1.47
+        },
+        {
+          "fecha": 16,
+          "precio": 1.47
+        },
+        {
+          "fecha": 19,
+          "precio": 1.47
+        },
+        {
+          "fecha": 21,
+          "precio": 1.47
+        },
+        {
+          "fecha": 23,
+          "precio": 1.47
+        },
+        {
+          "fecha": 26,
+          "precio": 1.51
+        },
+        {
+          "fecha": 28,
+          "precio": 1.51
+        },
+        {
+          "fecha": 30,
+          "precio": 1.51
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 2,
+          "precio": 1.8
+        },
+        {
+          "fecha": 5,
+          "precio": 1.8
+        },
+        {
+          "fecha": 7,
+          "precio": 1.75
+        },
+        {
+          "fecha": 9,
+          "precio": 1.8
+        },
+        {
+          "fecha": 12,
+          "precio": 1.7
+        },
+        {
+          "fecha": 14,
+          "precio": 1.7
+        },
+        {
+          "fecha": 16,
+          "precio": 1.6
+        },
+        {
+          "fecha": 19,
+          "precio": 1.6
+        },
+        {
+          "fecha": 21,
+          "precio": 1.6
+        },
+        {
+          "fecha": 23,
+          "precio": 1.6
+        },
+        {
+          "fecha": 26,
+          "precio": 1.55
+        },
+        {
+          "fecha": 28,
+          "precio": 1.55
+        },
+        {
+          "fecha": 30,
+          "precio": 1.55
+        }
+      ]
+    },
+    "OCT": {
+      "VIRU": [
+        {
+          "fecha": 3,
+          "precio": 1.55
+        },
+        {
+          "fecha": 5,
+          "precio": 1.55
+        },
+        {
+          "fecha": 7,
+          "precio": 1.5
+        },
+        {
+          "fecha": 10,
+          "precio": 1.5
+        },
+        {
+          "fecha": 12,
+          "precio": 1.55
+        },
+        {
+          "fecha": 14,
+          "precio": 1.55
+        },
+        {
+          "fecha": 17,
+          "precio": 1.55
+        },
+        {
+          "fecha": 19,
+          "precio": 1.5
+        },
+        {
+          "fecha": 21,
+          "precio": 1.5
+        },
+        {
+          "fecha": 24,
+          "precio": 1.5
+        },
+        {
+          "fecha": 26,
+          "precio": 1.5
+        },
+        {
+          "fecha": 28,
+          "precio": 1.5
+        },
+        {
+          "fecha": 31,
+          "precio": 1.5
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 3,
+          "precio": 1.56
+        },
+        {
+          "fecha": 5,
+          "precio": 1.56
+        },
+        {
+          "fecha": 7,
+          "precio": 1.51
+        },
+        {
+          "fecha": 10,
+          "precio": 1.51
+        },
+        {
+          "fecha": 12,
+          "precio": 1.5
+        },
+        {
+          "fecha": 14,
+          "precio": 1.5
+        },
+        {
+          "fecha": 17,
+          "precio": 1.51
+        },
+        {
+          "fecha": 19,
+          "precio": 1.5
+        },
+        {
+          "fecha": 21,
+          "precio": 1.5
+        },
+        {
+          "fecha": 24,
+          "precio": 1.5
+        },
+        {
+          "fecha": 26,
+          "precio": 1.5
+        },
+        {
+          "fecha": 28,
+          "precio": 1.5
+        },
+        {
+          "fecha": 31,
+          "precio": 1.5
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 3,
+          "precio": 1.6
+        },
+        {
+          "fecha": 5,
+          "precio": 1.6
+        },
+        {
+          "fecha": 7,
+          "precio": 1.55
+        },
+        {
+          "fecha": 10,
+          "precio": 1.55
+        },
+        {
+          "fecha": 12,
+          "precio": 1.6
+        },
+        {
+          "fecha": 14,
+          "precio": 1.6
+        },
+        {
+          "fecha": 17,
+          "precio": 1.6
+        },
+        {
+          "fecha": 19,
+          "precio": 1.55
+        },
+        {
+          "fecha": 21,
+          "precio": 1.55
+        },
+        {
+          "fecha": 24,
+          "precio": 1.55
+        },
+        {
+          "fecha": 26,
+          "precio": 1.55
+        },
+        {
+          "fecha": 28,
+          "precio": 1.55
+        },
+        {
+          "fecha": 31,
+          "precio": 1.55
+        }
+      ]
+    },
+    "NOV": {
+      "VIRU": [
+        {
+          "fecha": 2,
+          "precio": 1.5
+        },
+        {
+          "fecha": 4,
+          "precio": 1.5
+        },
+        {
+          "fecha": 7,
+          "precio": 1.5
+        },
+        {
+          "fecha": 9,
+          "precio": 1.5
+        },
+        {
+          "fecha": 11,
+          "precio": 1.5
+        },
+        {
+          "fecha": 14,
+          "precio": 1.5
+        },
+        {
+          "fecha": 16,
+          "precio": 1.5
+        },
+        {
+          "fecha": 18,
+          "precio": 1.5
+        },
+        {
+          "fecha": 21,
+          "precio": 1.5
+        },
+        {
+          "fecha": 23,
+          "precio": 1.5
+        },
+        {
+          "fecha": 25,
+          "precio": 1.5
+        },
+        {
+          "fecha": 28,
+          "precio": 1.5
+        },
+        {
+          "fecha": 30,
+          "precio": 1.5
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 2,
+          "precio": 1.5
+        },
+        {
+          "fecha": 4,
+          "precio": 1.5
+        },
+        {
+          "fecha": 7,
+          "precio": 1.5
+        },
+        {
+          "fecha": 9,
+          "precio": 1.5
+        },
+        {
+          "fecha": 11,
+          "precio": 1.5
+        },
+        {
+          "fecha": 14,
+          "precio": 1.5
+        },
+        {
+          "fecha": 16,
+          "precio": 1.5
+        },
+        {
+          "fecha": 18,
+          "precio": 1.5
+        },
+        {
+          "fecha": 21,
+          "precio": 1.5
+        },
+        {
+          "fecha": 23,
+          "precio": 1.5
+        },
+        {
+          "fecha": 25,
+          "precio": 1.5
+        },
+        {
+          "fecha": 28,
+          "precio": 1.5
+        },
+        {
+          "fecha": 30,
+          "precio": 1.5
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 2,
+          "precio": 1.52
+        },
+        {
+          "fecha": 4,
+          "precio": 1.52
+        },
+        {
+          "fecha": 7,
+          "precio": 1.52
+        },
+        {
+          "fecha": 9,
+          "precio": 1.55
+        },
+        {
+          "fecha": 11,
+          "precio": 1.55
+        },
+        {
+          "fecha": 14,
+          "precio": 1.6
+        },
+        {
+          "fecha": 16,
+          "precio": 1.6
+        },
+        {
+          "fecha": 18,
+          "precio": 1.6
+        },
+        {
+          "fecha": 21,
+          "precio": 1.6
+        },
+        {
+          "fecha": 23,
+          "precio": 1.7
+        },
+        {
+          "fecha": 25,
+          "precio": 1.7
+        },
+        {
+          "fecha": 28,
+          "precio": 1.7
+        },
+        {
+          "fecha": 30,
+          "precio": 1.7
+        }
+      ]
+    },
+    "DIC": {
+      "VIRU": [
+        {
+          "fecha": 2,
+          "precio": 1.5
+        },
+        {
+          "fecha": 5,
+          "precio": 1.5
+        },
+        {
+          "fecha": 7,
+          "precio": 1.5
+        },
+        {
+          "fecha": 9,
+          "precio": 1.5
+        },
+        {
+          "fecha": 12,
+          "precio": 1.5
+        },
+        {
+          "fecha": 14,
+          "precio": 1.5
+        },
+        {
+          "fecha": 16,
+          "precio": 1.45
+        },
+        {
+          "fecha": 19,
+          "precio": 1.45
+        },
+        {
+          "fecha": 21,
+          "precio": 1.45
+        },
+        {
+          "fecha": 23,
+          "precio": 1.45
+        },
+        {
+          "fecha": 26,
+          "precio": 1.45
+        },
+        {
+          "fecha": 28,
+          "precio": 1.45
+        },
+        {
+          "fecha": 30,
+          "precio": 1.45
+        }
+      ],
+      "CHICAMA": [
+        {
+          "fecha": 2,
+          "precio": 1.5
+        },
+        {
+          "fecha": 5,
+          "precio": 1.5
+        },
+        {
+          "fecha": 7,
+          "precio": 1.5
+        },
+        {
+          "fecha": 9,
+          "precio": 1.5
+        },
+        {
+          "fecha": 12,
+          "precio": 1.5
+        },
+        {
+          "fecha": 14,
+          "precio": 1.5
+        },
+        {
+          "fecha": 16,
+          "precio": 1.45
+        },
+        {
+          "fecha": 19,
+          "precio": 1.45
+        },
+        {
+          "fecha": 21,
+          "precio": 1.45
+        },
+        {
+          "fecha": 23,
+          "precio": 1.45
+        },
+        {
+          "fecha": 26,
+          "precio": 1.45
+        },
+        {
+          "fecha": 28,
+          "precio": 1.45
+        },
+        {
+          "fecha": 30,
+          "precio": 1.45
+        }
+      ],
+      "MOCHE": [
+        {
+          "fecha": 2,
+          "precio": 1.7
+        },
+        {
+          "fecha": 5,
+          "precio": 1.7
+        },
+        {
+          "fecha": 7,
+          "precio": 1.6
+        },
+        {
+          "fecha": 9,
+          "precio": 1.6
+        },
+        {
+          "fecha": 12,
+          "precio": 1.6
+        },
+        {
+          "fecha": 14,
+          "precio": 1.6
+        },
+        {
+          "fecha": 16,
+          "precio": 1.6
+        },
+        {
+          "fecha": 19,
+          "precio": 1.6
+        },
+        {
+          "fecha": 21,
+          "precio": 1.6
+        },
+        {
+          "fecha": 23,
+          "precio": 1.6
+        },
+        {
+          "fecha": 26,
+          "precio": 1.6
+        },
+        {
+          "fecha": 28,
+          "precio": 1.6
+        },
+        {
+          "fecha": 30,
+          "precio": 1.5
+        }
+      ]
+    }
+  }
+}
