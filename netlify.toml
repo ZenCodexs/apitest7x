@@ -1,2 +1,11 @@
 [build]
-  command = "node app.js"
+  command = "npm run build" # Si es necesario ejecutar un comando de compilación antes de generar la función
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+  
+[[functions]]
+  directory = "functions"
+  include = ["**/*"]
