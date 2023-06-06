@@ -4,26 +4,68 @@ const axios = require('axios');
 const XLSX = require('xlsx');
 const cache = require('memory-cache');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 const app = express();
 const urlagrolalibertad = 'http://www.agrolalibertad.gob.pe/index.php?q=node/152';
 const serverUrl = process.env.SERVER_URL;
+
+let jsonData = {
+  añoactual: {},
+  añoanterior: {}
+};
 
 // Función para verificar si es un número
 function isNumeric(value) {
   return !isNaN(parseFloat(value)) && isFinite(value);
 }
 
-// Definir la ruta GET para obtener los datos actualizados
-app.get('/data', (req, res) => {
-  // Comprobar si los datos están en caché
-  const cachedData = cache.get('data');
-  if (cachedData) {
-    return res.json(cachedData);
+// Función para encontrar la posición de un valor en una hoja
+function findCellValuePosition(sheet, targetValue) {
+  const range = sheet['!ref'];
+  const [startCell, endCell] = range.split(':');
+  const startRow = parseInt(startCell.match(/\d+/)[0]);
+  const endRow = parseInt(endCell.match(/\d+/)[0]);
+
+  for (let row = startRow; row <= endRow; row++) {
+    const cellAddress = `A${row}`;
+    const cellValue = sheet[cellAddress]?.v;
+
+    if (cellValue === targetValue) {
+      return row;
+    }
   }
 
-  //const url = 'http://www.agrolalibertad.gob.pe/sites/default/files/PRECIOS_MAIZ_AMARILLO_DURO_VIRU-ASCOPE_ANO_2023 (1)_0_0.xlsx';
-  const sheetName = 'FEB';
+  return -1; // El valor no se encontró en la hoja
+}
+
+// Definir la ruta GET para obtener los datos actualizados
+app.get('/data', (req, res) => {
+  fs.readFile('data.json', (err, data) => {
+    if (err) {
+      console.error('Error al leer el archivo JSON:', err);
+      res.status(500).json({ error: 'Error al obtener los datos' });
+    } else {
+      jsonData = JSON.parse(data);
+      res.json(jsonData);
+    }
+  });
+});
+
+// Programar la ejecución de la ruta GET cada 30 minutos
+cron.schedule('*/30 * * * *', () => {
+  fetchDataAndSaveToJson();
+});
+
+const port = 3000;
+app.listen(port, () => {
+  console.log(`Servidor Express iniciado en el puerto ${port}`);
+});
+
+// Obtener los datos y guardarlos en un archivo JSON
+const fetchDataAndSaveToJson = () => {
+
+    const sheetName = 'FEB';
   //const startCell = 'B7';
   //const endCell = 'S7';
   const currentDate = new Date();
@@ -245,16 +287,24 @@ app.get('/data', (req, res) => {
 
             cache.put('data', jsonData, 30 * 60 * 1000);
 
-            res.json(jsonData);
+            const jsonDataString = JSON.stringify(jsonData, null, 2);
+
+              fs.writeFile('data.json', jsonDataString, (err) => {
+                if (err) {
+                  console.error('Error al escribir el archivo JSON:', err);
+                } else {
+                  console.log('Archivo JSON actualizado correctamente');
+                }
+              });
             })
             .catch(error => {
             console.log('Error al descargar el archivo del año anterior:', error);
-            res.status(500).json({ error: 'Error al obtener los datos' });
+           
             });
         })
         .catch(error => {
         console.log('Error al descargar el archivo actual:', error);
-        res.status(500).json({ error: 'Error al obtener los datos' });
+        
         });
 
 
@@ -263,48 +313,8 @@ app.get('/data', (req, res) => {
     .catch(error => {
         console.error('Error al hacer la solicitud:', error);
     });
-
-  //====================================================================================================
-
-
   
-});
+};
 
-
-// Programar la ejecución de la ruta GET cada 30 minutos
-cron.schedule('*/30 * * * *', () => {
-    axios.get(`${serverUrl}/data`)
-    .then(response => {
-      console.log('Datos actualizados:', response.data);
-    })
-    .catch(error => {
-      console.error('Error al obtener los datos actualizados:', error);
-    });
-});
-
-//const port = 3000;
-app.listen(process.env.PORT || 3000, () => {
-    console.log('Servidor Express iniciado');
-});
-
-
-// Función para encontrar la posición de un valor en una hoja
-function findCellValuePosition(sheet, targetValue) {
-    const range = sheet['!ref'];
-    const [startCell, endCell] = range.split(':');
-    const startRow = parseInt(startCell.match(/\d+/)[0]);
-    const endRow = parseInt(endCell.match(/\d+/)[0]);
-  
-    for (let row = startRow; row <= endRow; row++) {
-      const cellAddress = `A${row}`;
-      const cellValue = sheet[cellAddress]?.v;
-  
-      if (cellValue === targetValue) {
-        return row;
-      }
-    }
-  
-    return -1; // El valor no se encontró en la hoja
-}
-
-
+// Ejecutar la función fetchDataAndSaveToJson al iniciar el servidor
+fetchDataAndSaveToJson();
