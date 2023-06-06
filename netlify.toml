@@ -1,0 +1,8 @@
+[build]
+command = "node app.js"
+publish = "public"  # Reemplaza esto con la ruta relativa a la carpeta que contiene tu archivo app.js
+
+[build.environment]
+NODE_VERSION = "18.16.0"  # Reemplaza esto con la versión de Node.js que estás utilizando
+
+
