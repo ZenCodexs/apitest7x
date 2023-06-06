@@ -1,6 +1,3 @@
-[build]
-  command = "npm run build" # Si es necesario ejecutar un comando de compilación antes de generar la función
-
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
