@@ -282,9 +282,9 @@ cron.schedule('*/30 * * * *', () => {
     });
 });
 
-const port = 3000;
-app.listen(port, () => {
-  console.log(`Servidor Express iniciado en el puerto ${port}`);
+//const port = 3000;
+app.listen(process.env.PORT || 3000, () => {
+    console.log(`Servidor Express iniciado en el puerto ${port}`);
 });
 
 
